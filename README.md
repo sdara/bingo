@@ -1,0 +1,1 @@
+A simple bingo simulator. Randomizes options and changes interface elements based on clicking/tapping.
